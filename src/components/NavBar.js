@@ -3,7 +3,8 @@ import React from 'react'
  function NavBar() {
     return (
         <div>
-            <div class="wrapper">
+			 
+            <div class="topbar">
 	    <ul>
 	<li>Home </li>
 	<li>About</li>
@@ -30,6 +31,7 @@ import React from 'react'
 	<li>Contact</li>
 	</ul>
 	</div>
+	
         </div>
     )
 }
