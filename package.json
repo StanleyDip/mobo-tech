@@ -12,12 +12,15 @@
     "react-bootstrap": "^1.5.0",
     "react-dom": "^17.0.1",
     "react-facebook-emoji": "^1.0.12",
+    "react-image": "^4.0.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

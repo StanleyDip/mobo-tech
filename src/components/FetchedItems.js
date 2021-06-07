@@ -18,12 +18,13 @@ const lekha={
     color:'#34dbeb'
 }
 
-function Product({show}) {
+function FetchedItems({show}) {
+    const photo = require(`../images/${show.image}`).default;
     
     return ( 
         <Link to={`/${show.id}/products`}>
         <div className="card" style={heading} >
-            <img  src={show.image} />
+            <img  src={photo} />
             <div className="card-body">
                 <h5 className="card-title" className='redShow'>{show.name}</h5>
                 <p className="card-text" style={lekha}className='redShow'>{show.Price}</p>
@@ -33,4 +34,4 @@ function Product({show}) {
         </Link>
     )
 }
-export default Product;
+export default FetchedItems;

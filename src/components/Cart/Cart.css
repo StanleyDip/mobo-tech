@@ -1,0 +1,19 @@
+.cart-container{
+    width: 350px;
+    height: 200px;
+    border:3px solid #f2F3F5;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    right:20rem;
+    z-index: 4;
+    background: white;
+}
+
+.cart-container li{
+list-style: none;
+margin-left:5px;
+margin-top: 10px;
+}
