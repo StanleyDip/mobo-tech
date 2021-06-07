@@ -19,8 +19,8 @@ import './Navbar.css'
 			<li>Categories
 	            <ul>
 				<Link to="/smartphones"><li>Smartphone</li></Link>
-					<li>Tablet</li>
-					<li>Smartwatch</li>
+				<Link to="/Tablets-iPads"><li>Tablets/iPads</li></Link>
+				<Link to="/SmartWatch"><li>SmartWatch</li></Link>
 		        </ul>
 	        
 	    <ul>

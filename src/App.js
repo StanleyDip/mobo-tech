@@ -29,10 +29,16 @@ function App() {
        <Route path="/Apple" exact>
        <SmartPhones name="Apple" check="Brand"/>   
        </Route>
+       <Route path="/SmartWatch" exact>
+       <SmartPhones name="Watch" check="Category"/>   
+       </Route>
+       <Route path="/Tablets-iPads" exact>
+       <SmartPhones name="Tablet" check="Category"/>   
+       </Route>
        </Switch>
     </Router>
   );
 }
-  
+
   
 export default App;

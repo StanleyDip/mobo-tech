@@ -1,0 +1,15 @@
+.heading{
+    width:18rem;
+    float:left;
+    margin:20px;
+    height:minmax(400px,450px);
+    padding:20px;
+    overflow:absolute;
+    z-index: -1;
+}
+.card-text-color{
+    color:#34dbeb !important;
+}
+.card-title-color{
+    color:#1C1E21
+}

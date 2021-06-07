@@ -19,12 +19,12 @@
             "Price":"68,999/-",
             "Brand":"Oneplus",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, May",
+            "OS":"Android 9.0; OxygenOS 9",
+            "Display":"6.67\" 1440x3120 pixels",
+            "Camera":"48MP 2160p",
+            "RAM":"12GB RAM Snapdragon 855",
+            "Battery":"4000mAh Li-Po"
         },
 
         {   "id":"Oneplus7TPro",
@@ -33,12 +33,12 @@
             "Price":"69,999/-",
             "Brand":"Oneplus",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, October",
+            "OS":"Android 10.0; OxygenOS 10",
+            "Display":"6.67\" 1440x3120 pixels",
+            "Camera":" 48MP 2160p",
+            "RAM":"8/12GB RAM Snapdragon 855+",
+            "Battery":"4085mAh Li-Po"
         },
 
         {   "id":"OneplusZ",
@@ -47,12 +47,12 @@
             "Price":"28,000/-",
             "Brand":"Oneplus",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"Exp. release 2020, July",
+            "OS":"Android 10.0; OxygenOS 10.0",
+            "Display":"6.55\" 1080x2400 pixels",
+            "Camera":" 64MP 2160p",
+            "RAM":"6GB RAM Snapdragon 765G",
+            "Battery":"4300mAh Li-Po"
         },
         {
             "id":"OneplusNord5G",
@@ -61,12 +61,12 @@
             "Price":"28,000/-",
             "Brand":"Oneplus",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"Not announced yet",
+            "OS":"Android 10, OxygenOS 10.0",
+            "Display":" 6.55\" 1080x2400 pixels",
+            "Camera":"64MP 2160p",
+            "RAM":"6GB RAM Snapdragon 765G",
+            "Battery":"4300mAh Li-Po"
         },
 
         {   "id":"Oneplus7T",
@@ -75,12 +75,25 @@
             "Price":"54,999/-",
             "Brand":"Oneplus",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, October",
+            "OS":"Android 10.0; OxygenOS 10.0.3",
+            "Display":"6.55\" 1080x2400 pixels",
+            "Camera":"48MP 2160p",
+            "RAM":"8GB RAM Snapdragon 855+",
+            "Battery":"3800mAh Li-Po"
+        },
+        {   "id":"Oneplus8T",
+            "name": "OnePlus 8T",
+            "image":"OnePlus-8T.jpg",
+            "Price":"69,999/-",
+            "Brand":"Oneplus",
+            "Category": "Smartphone",
+            "Launch":"2020, October 16",
+            "OS":"Android 11, OxygenOS 11",
+            "Display":"6.55\" 1080x2400 pixels",
+            "Camera":"48MP 2160p",
+            "RAM":"8/12GB RAM Snapdragon 865",
+            "Battery":"4500mAh Li-Po"
         },
         
         {   "id":"OneplusNordN105G",
@@ -89,12 +102,12 @@
             "Price":"34,990/-",
             "Brand":"Oneplus",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, November 21",
+            "OS":"Operating (OS): Android 10, OxygenOS 10.5",
+            "Display":"6.49\" 1080x2400 pixels",
+            "Camera":"64MP 3240p",
+            "RAM":"RAM & Chipset: 6GB RAM Snapdragon 690 5G",
+            "Battery":"4300mAh Li-Po"
         },
 
         {
@@ -187,7 +200,7 @@
             "image":"Apple-iPad-Pro-11-2021.jpg",
             "Price":"90,000/-",
             "Brand":"Apple",
-            "Category": "iPad",
+            "Category": "Tablet",
             "Launch":"",
             "OS":"",
             "Display":"",
@@ -201,7 +214,7 @@
             "image":"Apple-iPad-Pro-12-2021.jpg",
             "Price":"130,000/-",
             "Brand":"Apple",
-            "Category": "iPad",
+            "Category": "Tablet",
             "Launch":"",
             "OS":"",
             "Display":"",
@@ -252,7 +265,7 @@
             "Battery":""
         },
         {
-            "id":"AppleiPhone12Pro",
+            "id":"AppleiPhone12s",
             "name":"Apple iPhone 12 Pro",
             "image":"Apple-iPhone-12s.jpg",
             "Price":"146,999/-",
