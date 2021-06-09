@@ -42,7 +42,7 @@ import './Navbar.css'
 	</ul>
 	
         </div>
-		{openCart ? <Cart/>:null}
+		{/* {openCart ? <Cart />:null} */}
 		</React.Fragment>
     )
 }

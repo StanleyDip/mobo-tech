@@ -5,6 +5,7 @@ import ProductList from './components/productList' ;
 import NavBar from './components/Navbar/NavBar';
 import Item from './components/Item/Item';
 import SmartPhones from './components/Smartphones';
+import Cart from './components/Cart/Cart';
 
 function App() {
   return(
@@ -34,6 +35,9 @@ function App() {
        </Route>
        <Route path="/Tablets-iPads" exact>
        <SmartPhones name="Tablet" check="Category"/>   
+       </Route>
+       <Route path="/Cart" exact>
+       <Cart/>
        </Route>
        </Switch>
     </Router>

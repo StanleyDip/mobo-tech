@@ -117,12 +117,12 @@
             "Price":"30,000/-",
             "Brand":"Samsung",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2021, January 22",
+            "OS":"Android 11, One UI 3.0",
+            "Display":"6.5\" 1080x2400 pixels",
+            "Camera":"48MP 1080p",
+            "RAM":"4/8GB RAM Dimensity 720 5G",
+            "Battery":"5000mAh Li-Ion"
         },
         {
             "id":"SamsungGalaxyF41",
@@ -131,26 +131,26 @@
             "Price":"22,000/-",
             "Brand":"Samsung",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, October 16",
+            "OS":"Android 10, One UI Core 2.1",
+            "Display":"6.4\" 1080x2340 pixels",
+            "Camera":"64MP 3240p",
+            "RAM":"6GB Exynos 9 Octa 9611",
+            "Battery":"6000mAh Li-Po"
         },
         {
-            "id":"SamsungGalaxyA02Blue",
-            "name":"Samsung-Galaxy-A02-Blue",
-            "image":"Samsung-Galaxy-A02-Blue.jpg",
-            "Price":"15,000/-",
+            "id":"SamsungGalaxyTabA710.4",
+            "name":"Samsung Galaxy Tab A7 10.4(2020)",
+            "image":"Samsung-Galaxy-Tab-A7-10.jpg",
+            "Price":"26,500/-",
             "Brand":"Samsung",
-            "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Category": "Tablet",
+            "Launch":" 2020, September 11",
+            "OS":"Android 10, One UI 2.1",
+            "Display":"10.4” 2000x1200 pixels",
+            "Camera":"8MP 1080p",
+            "RAM":"3GB RAM Snapdragon 662",
+            "Battery":"7040mAh Li-Po"
         },
         {
             "id":"SamsungGalaxyM31Prime1",
@@ -159,12 +159,12 @@
             "Price":"22,000/-",
             "Brand":"Samsung",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, October 17",
+            "OS":"Android 10, One UI 2.1",
+            "Display":"6.4\" 1080x2340 pixels",
+            "Camera":"64MP 2160p",
+            "RAM":"6GB RAM Exynos 9611",
+            "Battery":"6000mAh Li-Po"
         },
         {
             "id":"SamsungGalaxyM21s",
@@ -173,12 +173,12 @@
             "Price":"26,000/-",
             "Brand":"Samsung",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, November 06",
+            "OS":"Android 10, One UI 2.5",
+            "Display":"6.4\" 1080x2340 pixels",
+            "Camera":"64MP 2160p",
+            "RAM":"4GB RAM Exynos 9611",
+            "Battery":"6000mAh Li-Po"
         },
         {
             "id":"SamsungGalaxyA02sBlack",
@@ -187,13 +187,42 @@
             "Price":"15,000/-",
             "Brand":"Samsung",
             "Category": "Smartphone",
-             "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2021, January 04",
+            "OS":"Android 10.0",
+            "Display":"6.5\" 720x1520 pixels",
+            "Camera":"13MP 1080p",
+            "RAM":"3/4GB RAM Snapdragon 450",
+            "Battery":"5000mAh Li-Po"
         },
+        {
+            "id":"SamsungGalaxyWatch3",
+            "name":"Samsung Galaxy Watch3",
+            "image":"Samsung-Galaxy-Watch3.jpg",
+            "Price":"25,000/-",
+            "Brand":"Samsung",
+            "Category": "Watch",
+            "Launch":"Exp. announcement 2020, July",
+            "OS":"Tizen-based wearable OS 5.5",
+            "Display":"1.4\" 360x360 pixels",
+            "Camera":"-",
+            "RAM":"1/2GB RAM",
+            "Battery":"340mAh Li-Ion"
+        },
+        {
+            "id":"SamsungGalaxyWatchActive",
+            "name":"Samsung Galaxy Watch Active",
+            "image":"Samsung-Galaxy-Watch-Active.jpg",
+            "Price":"23,490/-",
+            "Brand":"Samsung",
+            "Category": "Watch",
+            "Launch":"2019, April",
+            "OS":"Tizen-based wearable OS 4.0",
+            "Display":"1.1\" 360x360 pixels",
+            "Camera":"-",
+            "RAM":"768MB RAM Exynos 9110",
+            "Battery":"23mAh Li-Ion"
+        },
+    
         {
             "id":"AppleiPadPro11",
             "name":"Apple iPad Pro 11(2021)",
@@ -201,12 +230,12 @@
             "Price":"90,000/-",
             "Brand":"Apple",
             "Category": "Tablet",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2021, May 21",
+            "OS":"iPadOS 14.5.1",
+            "Display":"11.0\" 1668x2388 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"8/16GB RAM Apple M1",
+            "Battery":"7538mAh Li-Po"
         },
         {
             "id":"AppleiPadPro12",
@@ -215,12 +244,12 @@
             "Price":"130,000/-",
             "Brand":"Apple",
             "Category": "Tablet",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2021, May 21",
+            "OS":"iPadOS 14.5.1",
+            "Display":"12.9\" 2048x2732 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"8/16GB RAM Apple M1",
+            "Battery":"7538mAh Li-Po"
         },
         {
             "id":"AppleWatchSeries3",
@@ -229,12 +258,12 @@
             "Price":"23,500/-",
             "Brand":"Apple",
             "Category": "Watch",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2017, September",
+            "OS":"watchOS 4.0, up to 5.1.3",
+            "Display":"1.65\" 390x312 pixels",
+            "Camera":"-",
+            "RAM":"768MB RAM Apple S3",
+            "Battery":"279 mAh Li-Po"
         },
          {
             "id":"AppleWatchSeries5",
@@ -243,12 +272,26 @@
             "Price":"34,000/-",
             "Brand":"Apple",
             "Category": "Watch",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, September",
+            "OS":"watchOS 6.0",
+            "Display":"1.78\" 448x368 pixels",
+            "Camera":"-",
+            "RAM":"Apple S5",
+            "Battery":"279 mAh Li-Po"
+        },
+        {
+            "id":"AppleWatchSeries6",
+            "name":"Apple Watch Edition Series 6",
+            "image":"Apple-Watch-Edition-Series-6.jpg",
+            "Price":"85,000/-",
+            "Brand":"Apple",
+            "Category": "Watch",
+            "Launch":"2020, September 18",
+            "OS":"watchOS 7.0",
+            "Display":"1.78\" 448x368 pixels",
+            "Camera":"-",
+            "RAM":"1GB RAM Apple S6",
+            "Battery":"304 mAh Li-Po"
         },
         {
             "id":"AppleiPhone12Mini",
@@ -257,12 +300,12 @@
             "Price":"109,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, November 13",
+            "OS":"iOS 14.1, up to iOS 14.2",
+            "Display":"5.4\" 1080x2340 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"4GB RAM Apple A14 Bionic",
+            "Battery":"2227mAh Li-Ion"
         },
         {
             "id":"AppleiPhone12s",
@@ -271,12 +314,12 @@
             "Price":"146,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, October 23",
+            "OS":"iOS 14.1, up to iOS 14.2",
+            "Display":"6.1\" 1170x2532 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"6GB RAM Apple A14 Bionic",
+            "Battery":"2815mAh Li-Ion"
         },
         {
             "id":"AppleiPhone12",
@@ -285,12 +328,12 @@
             "Price":"117,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, October 23",
+            "OS":"iOS 14",
+            "Display":"6.1\" 1170x2532 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"6GB RAM Apple A14 Bionic",
+            "Battery":"2815mAh Li-Ion"
         },
         {
             "id":"AppleiPhone12Pro",
@@ -299,12 +342,12 @@
             "Price":"146,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, October 23",
+            "OS":"iOS 14.1, up to iOS 14.2",
+            "Display":"6.1\" 1170x2532 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"6GB RAM Apple A14 Bionic",
+            "Battery":"2815mAh Li-Ion"
         },
         {
             "id":"AppleiPhone12ProMax",
@@ -313,12 +356,12 @@
             "Price":"161,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2020, November 13",
+            "OS":"iOS 14.1, up to iOS 14.2",
+            "Display":"6.7\" 1284x2778 pixels",
+            "Camera":"2MP 2160p",
+            "RAM":"6GB RAM Apple A14 Bionic",
+            "Battery":"3687mAh Li-Ion"
         },
         {
             "id":"AppleiPhone11ProMax",
@@ -327,12 +370,12 @@
             "Price":"139,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, September",
+            "OS":"iOS 13",
+            "Display":"6.5\" 1242x2688 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"6GB RAM Apple A13 Bionic",
+            "Battery":"3969mAh Li-Ion"
         },
 
         {
@@ -342,12 +385,12 @@
             "Price":"119,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, September",
+            "OS":"iOS 13",
+            "Display":"5.8\" 1125x2436 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"6GB RAM Apple A13 Bionic",
+            "Battery":"3190mAh Li-Ion"
         },
         {
             "id":"AppleiPhone11",
@@ -356,12 +399,12 @@
             "Price":"87,999/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2019, September",
+            "OS":"iOS 13",
+            "Display":"6.1\" 828x1792 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"6GB RAM Apple A13 Bionic",
+            "Battery":"3046mAh Li-Ion"
         },
         {
             "id":"AppleiPhoneXSMax",
@@ -370,11 +413,11 @@
             "Price":"108,000/-",
             "Brand":"Apple",
             "Category": "Smartphone",
-            "Launch":"",
-            "OS":"",
-            "Display":"",
-            "Camera":"",
-            "RAM":"",
-            "Battery":""
+            "Launch":"2018, September",
+            "OS":"iOS 12",
+            "Display":"6.5\" 1242x2688 pixels",
+            "Camera":"12MP 2160p",
+            "RAM":"4GB RAM Apple A12 Bionic",
+            "Battery":"3174mAh Li-Ion"
         }
     ]

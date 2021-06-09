@@ -1,10 +1,9 @@
 .heading{
-    width:18rem;
-    float:left;
+   float: left;
+    width:20rem;
     margin:20px;
-    height:minmax(400px,450px);
+    height:450px;
     padding:20px;
-    overflow:absolute;
     z-index: -1;
 }
 .card-text-color{
@@ -13,3 +12,9 @@
 .card-title-color{
     color:#1C1E21
 }
+ .item-image{
+    position: relative;
+    right: 20px;
+    width: 278px;
+    height: 278px;
+} 
