@@ -12,7 +12,7 @@ import './Navbar.css'
 		<React.Fragment>
         <div className="topbar">
 	    <ul>
-			<Link to="/mobo-tech">
+			<Link to="/">
 			<li >Home </li>
 			</Link>
 			<li>About</li>

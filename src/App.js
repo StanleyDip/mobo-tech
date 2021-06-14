@@ -13,7 +13,7 @@ function App() {
     <Router>
        <NavBar/>
        <Switch>
-        <Route path="/mobo-tech" exact>
+        <Route path="/" exact>
        <ProductList/>   
        </Route>
        <Route path="/:productId/products" exact>
