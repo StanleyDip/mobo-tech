@@ -37,7 +37,7 @@ import './Navbar.css'
 		        	</ul>
 	        	</li>
 	<li onClick={handleCartOpener}><i className="fas fa-cart-plus"></i></li>
-	<li>Sign In <i className="fas fa-sign-in-alt"></i></li>
+	<Link to='./login'><li>Sign In <i className="fas fa-sign-in-alt"></i></li></Link>
 	<li>Sign Out <i className="fas fa-sign-out-alt"></i></li>
 	</ul>
 	

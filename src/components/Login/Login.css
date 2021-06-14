@@ -1,0 +1,19 @@
+.login-container{
+    width: auto;
+    height: auto;
+background: linear-gradient(180deg, rgba(15, 220, 233, 0.89) 0%, rgba(147, 161, 177, 0.89) 100%);
+background: radial-gradient(50% 50% at 50% 50%, rgba(20, 21, 22, 0.2) 0%, rgba(94, 145, 180, 0) 100%);
+background: linear-gradient(180deg, #3790CB 0%, rgba(0, 153, 255, 0) 100%);
+border-radius: 8px;
+}
+/* .login-container{
+    position: absolute;
+width: 602px;
+height: 511px;
+left: 442px;
+top: 241px;
+
+background: #C4C4C4;
+mix-blend-mode: overlay;
+border-radius: 37px;
+} */

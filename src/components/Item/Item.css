@@ -1,53 +1,57 @@
 .item-heading{
-   display: flex;
-   flex-direction: column;
-   align-items: center; 
-   border-radius: 6px;
-   box-shadow: 3px 4px 18px -6px rgba(0,0,0,0.75);
-}
-.image-item{
-    width: 300px;
-    height:300px;
-    border: 1px solid rgb(235, 228, 228);
-    border-radius: 12px;
-}
-.header-container{
+    height: 100vh;
     display: flex;
-    flex-direction: column;
-    width: fit-content;
-    height: 30px;
-    font-size: x-large;
-    font-weight: 800;
-    font-style: italic;
-    font-variant: small-caps;
+    flex-wrap: wrap;
+    place-items: center;
+    position: relative;
+    z-index: -2;
 }
-.icon-paragraph{
-    display: flex;
-    width: 450px;
-    height: 40px;
-    background-color: #c4d2fd;
-    color: black;
-    font-size: smaller;
-    transition: background-color 5s ease;
-    padding: auto;
-    border-radius: 6px;
+.header{
+    position: relative;
+    text-align: center;
+    /* margin-left: 12rem; */
+   
 }
-.icon-paragraph i{
- position: relative;
- padding: 5px;
- background-color: #dde5fe;
- width: 50px;
- height: 40px;
- padding-top: 12px;
-
-
-}
-.icon-paragraph:hover {
-   background-color: #dde5fe;
+.image-container{
+    flex: 0 1 150px; 
+    margin-top: 25px;
+    background: transparent;
+   
 }
 .right-side{
+    flex: 0 1 150px;
+    position: relative;
+    text-align: center;
+  
+}
+.wrapped-green-paragraphs{
+    flex: 0 1 150px; 
+    justify-content: center;
+  }
+
+.info-with-icons{
+    padding: 5px;
+    width: 29rem;
+    height: 2.5rem;
+    background-color: #c4d2fd;
     display: flex;
-    flex-direction: column;
-    font-size: smaller;
-    font-weight: 700;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 1rem;
+    transition: background-color 0.5s ease-in-out; 
+  
+}
+.fixxed{
+    color: #dde5fe;
+    background-color:#a6baf7;
+    width: 15%;
+    height:inherit;
+    padding: auto;
+    display: grid;
+    place-items: center;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.wrapped-green-paragraphs .info-with-icons:hover {
+   background-color: #a6baf7;
 }

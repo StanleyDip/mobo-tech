@@ -6,6 +6,7 @@ import NavBar from './components/Navbar/NavBar';
 import Item from './components/Item/Item';
 import SmartPhones from './components/Smartphones';
 import Cart from './components/Cart/Cart';
+import Login from './components/Login/Login';
 
 function App() {
   return(
@@ -38,6 +39,9 @@ function App() {
        </Route>
        <Route path="/Cart" exact>
        <Cart/>
+       </Route>
+       <Route path="/login" exact>
+       <Login/>
        </Route>
        </Switch>
     </Router>
